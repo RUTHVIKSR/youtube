@@ -8,3 +8,5 @@ Checkpoint 1 : (Environment configuration)
 
 2-> youtube setup using bun
 
+Checkpoint 2 : (nextjs setup using shadcn)
+3 -> nextjs setup using shadcn
