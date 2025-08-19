@@ -18,3 +18,14 @@ checkpoint 3 : (Experimenting with the page.tsx file)
 
 checkpoint 4 :
 5 -> experimented with button from components library
+
+checkpoint 5 :
+Goals : 
+    - add a logo asset
+    - Learn basic app route folders
+    - sidebar section
+        - sidebar section
+        - sidebar items
+    - navbar section
+        - search videos
+        - Sign in option
