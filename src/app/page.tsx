@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <Image src = "/logo.svg" height = {50} width = {50} alt = "Logo">
       </Image>
+      <p className = "text-xl font-semibold tracking-tight">WatchNow</p>
     </div>
   )
 }

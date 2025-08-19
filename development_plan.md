@@ -34,3 +34,6 @@ Goals :
 - imported an image component from the next/image
 - displayed the image in the left corner of the page
 6 -> adds image to the home page
+
+- modified the layouts.tsx to include appropriate font
+- added the name the home page using the font
