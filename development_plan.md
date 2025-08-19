@@ -10,3 +10,8 @@ Checkpoint 1 : (Environment configuration)
 
 Checkpoint 2 : (nextjs setup using shadcn)
 3 -> nextjs setup using shadcn
+
+checkpoint 3 : (Experimenting with the page.tsx file)
+- Displayed hello world by editing page.tsx
+- Extension for tailwind
+- added all the neccessary components from shadcn
