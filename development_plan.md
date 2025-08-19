@@ -29,3 +29,8 @@ Goals :
     - navbar section
         - search videos
         - Sign in option
+
+- Added Youtube logo into public folder
+- imported an image component from the next/image
+- displayed the image in the left corner of the page
+6 -> adds image to the home page
