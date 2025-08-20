@@ -37,3 +37,13 @@ Goals :
 
 - modified the layouts.tsx to include appropriate font
 - added the name the home page using the font
+
+7 -> changes the watchnow logo
+
+- src/app/feed/page.tsx => creates a new page accessable on localhost:3000/feed
+- src/app/feed/[videoId]/page.tsx => creates a new page on localhost:3000/feed/{any value}
+- used params to display specific video ids
+? - [LEARN] : dynamic APIs are now asyncronous
+- Added an interface called PageProps to get around the warning
+- [EXP] : to use dynamic APIs like [videoId] you have await them.
+8 -> feed page and dynamic video page
